@@ -13,7 +13,7 @@ October 25th until December 3rd.
 *   **Lecturers**:
     [Robert Spier][roberrrt-s-gh] ([**@roberrrt-s**][roberrrt-s-gh]),
     [Vincent Vijn][vijnv-gh] ([**@vijnv**][vijnv-gh]),
-    [Suus ten Voorde][s44s-gh] ([**s44s**])[s44s-gh]
+    [Suus ten Voorde][s44s-gh] ([**s44s**][s44s-gh])
 *   **Credit**: 9 ECTS
 *   **University**: [Amsterdam University of Applied Sciences][university]
 *   **Programme**: [Communication and Multimedia Design][cmda] (full time bachelor CROHO: `34092`)
