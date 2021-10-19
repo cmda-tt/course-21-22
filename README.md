@@ -11,8 +11,9 @@ October 25th until December 3rd.
     [Frontend Data][fd]
 *   **Coordinators**: [Vincent Vijn][vijnv-gh] & [Robert Spier][roberrrt-s-gh]
 *   **Lecturers**:
-    [Robert Spier][roberrrt-s-gh] ([**@roberrrt-s**][roberrrt-s-gh])
-    [Vincent Vijn][vijnv-gh] ([**@vijnv**][vijnv-gh])
+    [Robert Spier][roberrrt-s-gh] ([**@roberrrt-s**][roberrrt-s-gh]),
+    [Vincent Vijn][vijnv-gh] ([**@vijnv**][vijnv-gh]),
+    [Suus ten Voorde][s44s-gh] ([**s44s**])[s44s-gh]
 *   **Credit**: 9 ECTS
 *   **University**: [Amsterdam University of Applied Sciences][university]
 *   **Programme**: [Communication and Multimedia Design][cmda] (full time bachelor CROHO: `34092`)
@@ -133,6 +134,8 @@ docs and images are [CC-BY-4.0][].
 [fp]: pages/functional-programming
 
 [fd]: pages/frontend-data
+
+[s44s-gh]: https://github.com/s44s
 
 [vijnv-gh]: https://github.com/vijnv
 
