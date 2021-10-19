@@ -21,7 +21,8 @@ Write a program that parses a given dataset using the principles of functional p
 
 ## Goals
 
-This assessment focusses on [goal 1][g1] (**learn how to create with libraries**), [subgoal 1][s1] (**read docs**), [subgoal 2][s2] (**write docs**), [subgoal 5][s5] (**manipulate elements**), [subgoal 6][s6] (**load external
+This assessment focusses on [goal 1][g1] (**learn how to create with libraries**), [subgoal 1][s1] (**read docs**), [subgoal 2][s2] (**write docs**), 
+[subgoal 5][s5] (**manipulate elements**), [subgoal 6][s6] (**load external
 data**), [subgoal 7][s7] (**transform data**) and [subgoal 9][s9] (**use libraries**).
 
 <!--lint disable no-html maximum-line-length-->
@@ -79,3 +80,5 @@ data**), [subgoal 7][s7] (**transform data**) and [subgoal 9][s9] (**use librari
 > Bonus points can be rewarded when you've helped fellow students progress. But only if you already have a passing grade.
 
 <!--lint enable no-html maximum-line-length-->
+
+[banner]: https://cdn.jsdelivr.net/gh/cmda-tt/logo@d3abd8b1/banner-assessment-1.svg
