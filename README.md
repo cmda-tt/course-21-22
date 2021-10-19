@@ -12,7 +12,7 @@ October 25th until December 3rd.
 *   **Coordinators**: [Vincent Vijn][vijnv-gh] & [Robert Spier][roberrrt-s-gh]
 *   **Lecturers**:
     [Robert Spier][roberrrt-s-gh] ([**@roberrrt-s**][roberrrt-s-gh])
-    [Vincent Vijn][vijnv-gh], 
+    [Vincent Vijn][vijnv-gh] ([**@vijnv**][vijnv-gh])
 *   **Credit**: 9 ECTS
 *   **University**: [Amsterdam University of Applied Sciences][university]
 *   **Programme**: [Communication and Multimedia Design][cmda] (full time bachelor CROHO: `34092`)
@@ -20,7 +20,7 @@ October 25th until December 3rd.
 
 ## Description
 
-During the Tech Track you’ll learn how to create interactive visualizations from external data while using libraries and advancing your web dev skills. We focus on frontend frameworks, such as React and Vue, and data visualization with D3. This enables you to make your ideas for the web into reality. Though the subject matter is technical, attention to user experience and interaction design is, as always in our programme, stressed. 
+During the Tech Track you’ll learn how to create interactive visualizations from external data while using libraries and advancing your web dev skills. We focus on frontend frameworks, such as React and Vue, and data visualization with D3. This enables you to make your ideas for the web into reality. Though the subject matter is technical, attention to user experience and interaction design is, as always in our programme, stressed.
 
 **Tech Track** is an elective track of three courses given in Information
 Design (fall semester), building further on knowledge acquired in
