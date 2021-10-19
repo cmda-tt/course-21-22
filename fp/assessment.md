@@ -1,4 +1,4 @@
-# [![Assessment 1][banner]][fp]
+# Assessment
 
 ## Synopsis
 
@@ -21,9 +21,8 @@ Write a program that parses a given dataset using the principles of functional p
 
 ## Goals
 
-This assessment focusses on [goal 1][g1] (**learn how to create with libraries**), [subgoal 1][s1] (**read docs**), [subgoal 2][s2] (**write docs**), 
-[subgoal 5][s5] (**manipulate elements**), [subgoal 6][s6] (**load external
-data**), [subgoal 7][s7] (**transform data**) and [subgoal 9][s9] (**use libraries**).
+This assessment focusses on: **learn how to create with libraries**, **read docs**, **write docs**,
+**manipulate elements**, **load external data**, **transform data** and **use libraries**.
 
 <!--lint disable no-html maximum-line-length-->
 
