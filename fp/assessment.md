@@ -38,7 +38,7 @@ Write a program that parses a given dataset using the principles of functional p
       <td align="center">Git, is used; the project runs without errors; data is loaded; there is a representation of data</td>
       <td align="center"><strong>Data is sanitized and transformed</strong>; interpreting the representation is easier that interpreting the data itself</td>
       <td align="center"><strong>Functional patterns are used to clean and transform data. </strong></td>
-      <td align="center">Representation and <strong>use of chaining<
+      <td align="center">Representation and <strong>use of chaining</strong>
       strong> go beyond an example. Code is set up in a modular way and has no unexpected side effects</td>
       <td align="center">😱<br>The way the student applies subject matter  is more advanced than what they were taught in class; let’s switch places</td>
     </tr>
