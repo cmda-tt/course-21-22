@@ -1,23 +1,25 @@
-# Assessment
+# Assessment 3
 
 ## Synopsis
 
 *   **Weight**: 3 ECTS
 *   **Type**: Oral test
-*   **Resit**: End of semester.
+*   **Resit**: week 49
 *   **Grade**: At least 5.5 to pass this course
 
 ## Description
 
-Assessment 1 tests your skills for **functional programming**.
+Assessment 3 tests your skills for **frontend applications**.
 
-> **Note**: your project must be a repository on GitHub named `functional-programming`.
+> **Note**: your project must be a repository on GitHub named `frontend-applications`.
 
 Please make sure to **download your repository, and upload it to DLO as well**
 
 ## Assignment
 
-Write a program that parses a given dataset using the principles of functional programming, while documenting the proces on GitHub
+Create a client-side application in JavaScript which dynamically renders data to views using either a front-end framework or system created by you. Reflect on the merits and costs of frameworks together.
+
+## Rubric
 
 <!--lint disable no-html maximum-line-length-->
 
@@ -35,20 +37,19 @@ Write a program that parses a given dataset using the principles of functional p
   <tbody>
     <tr>
       <th align="center" scope="row"><strong>Application</strong> of subject matter</th>
-      <td align="center">Git, is used; the project runs without errors; data is loaded; there is a representation of data</td>
-      <td align="center"><strong>Data is sanitized and transformed</strong>; interpreting the representation is easier that interpreting the data itself</td>
-      <td align="center"><strong>Functional patterns are used to clean and transform data. </strong></td>
-      <td align="center">Representation and <strong>use of chaining<
-      strong> go beyond an example. Code is set up in a modular way and has no unexpected side effects</td>
-      <td align="center">😱<br>The way the student applies subject matter  is more advanced than what they were taught in class; let’s switch places</td>
+      <td align="center">Git and npm are used; the project runs without errors; data is loaded; there is a view that represents the data</td>
+      <td align="center"><strong>Views are rendered dynamically from data</strong>; interpreting the representation is easier that interpreting the raw data itself</td>
+      <td align="center"><strong>Data can be read and changed; changes to data are reflected in the interface; changes persist across page reloads</strong></td>
+      <td align="center">Views go beyond an example or tutorial: there are demonstrable additions <strong>like routing or creating data</strong></td>
+      <td align="center">😱<br>The way the student applies subject matter is more advanced than what they were taught in class; let’s switch places</td>
     </tr>
     <tr>
       <th align="center" scope="row">Understanding</th>
-      <td align="center">There is substantial own code; the student can explain the code that exists</td>
+      <td align="center">There is substantial own code and the student can explain how the project was created</td>
       <td align="center">The student can explain some parts of their code, how some parts works together, and some technical choices</td>
-      <td align="center">The student can explain every part of their code, how everything works together, and why patters are used instead of alternatives; the project is structured logically</td>
-      <td align="center">The project is complex but can easily be understood; alternatives to patterns covered in class was used that were great choices</td>
-      <td align="center">🤓<br>The student deeply understands functional programming and can create their own functional code flows</td>
+      <td align="center">Student understands how components, state, lifecycle works in their app. The project is structured logically. Merits of frameworks can be explained</td>
+      <td align="center">The project is complex but can easily be understood; student used or wrote code not covered in class that was carefully chosen while weighing alternatives</td>
+      <td align="center">🤓<br>The student deeply understands their code and a geeky / nerdy conversation can be held about this</td>
     </tr>
     <tr>
       <th align="center" scope="row">Quality</th>
@@ -60,7 +61,7 @@ Write a program that parses a given dataset using the principles of functional p
     </tr>
     <tr>
       <th align="center" scope="row">Process</th>
-      <td align="center">Process is partially documented in the wiki</td>
+      <td align="center">Process is partially documented</td>
       <td align="center">Process is properly documented</td>
       <td align="center">Choices are evaluated and documented; progress is demonstrated; Work tells a story</td>
       <td align="center">Significant progress or iterations are demonstrated; Storytelling principles are applied</td>
@@ -74,5 +75,3 @@ Write a program that parses a given dataset using the principles of functional p
 > Bonus points can be rewarded when you've helped fellow students progress. But only if you already have a passing grade.
 
 <!--lint enable no-html maximum-line-length-->
-
-[banner]: https://cdn.jsdelivr.net/gh/cmda-tt/logo@d3abd8b1/banner-assessment-1.svg
