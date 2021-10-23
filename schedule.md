@@ -32,6 +32,70 @@ This page includes the planning and schedule of the Tech Track 21/22.
   		<td></td>
   		<td></td>
   	</tr>
+   	<tr>
+  		<td>Wednesday</td>
+  		<td>27-Oct</td>
+  		<td></td>
+  		<td></td>
+  		<td></td>
+  		<td></td>
+  	</tr>
+  	<tr>
+  		<td>Thursday</td>
+  		<td>28-Oct</td>
+  		<td></td>
+  		<td></td>
+  		<td></td>
+  		<td></td>
+  	</tr>
+   	<tr>
+  		<td>Friday</td>
+  		<td>29-Oct</td>
+  		<td></td>
+  		<td></td>
+  		<td></td>
+  		<td></td>
+  	</tr>
+  	<tr>
+  		<td>Monday</td>
+  		<td>1-Nov</td>
+  		<td></td>
+  		<td></td>
+  		<td></td>
+  		<td></td>
+  	</tr>
+  	<tr>
+  		<td>Tuesday</td>
+  		<td>2-Nov</td>
+  		<td></td>
+  		<td></td>
+  		<td></td>
+  		<td></td>
+  	</tr>
+   	<tr>
+  		<td>Wednesday</td>
+  		<td>3-Nov</td>
+  		<td></td>
+  		<td></td>
+  		<td></td>
+  		<td></td>
+  	</tr>
+  	<tr>
+  		<td>Thursday</td>
+  		<td>4-Nov</td>
+  		<td></td>
+  		<td></td>
+  		<td></td>
+  		<td></td>
+  	</tr>
+   	<tr>
+  		<td>Friday</td>
+  		<td>5-Nov</td>
+  		<td></td>
+  		<td></td>
+  		<td></td>
+  		<td></td>
+  	</tr>
   </tbody>
 </table>
 
