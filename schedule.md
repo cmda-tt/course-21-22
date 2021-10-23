@@ -64,7 +64,7 @@ This page includes the planning and schedule of the Tech Track 21/22.
   		<td>Recap Week 1 & Gather a dataset</td>
   		<td>Check in</td>
   		<td>Check out</td>
-  		<td></td>
+  		<td>Robert & Suus</td>
   	</tr>
   	<tr>
   		<td>Tuesday</td>
@@ -72,7 +72,7 @@ This page includes the planning and schedule of the Tech Track 21/22.
   		<td>API's & Async</td>
   		<td>Check in</td>
   		<td>Check out</td>
-  		<td></td>
+  		<td>Robert & Suus</td>
   	</tr>
    	<tr>
   		<td>Wednesday</td>
@@ -80,7 +80,7 @@ This page includes the planning and schedule of the Tech Track 21/22.
   		<td>Feedback sessions</td>
   		<td>Check in</td>
   		<td>Check out</td>
-  		<td></td>
+  		<td>Suus</td>
   	</tr>
   	<tr>
   		<td>Thursday</td>
@@ -88,7 +88,7 @@ This page includes the planning and schedule of the Tech Track 21/22.
   		<td>Feedback sessions</td>
   		<td>Check in</td>
   		<td>Check out</td>
-  		<td></td>
+  		<td>Robert</td>
   	</tr>
    	<tr>
   		<td>Friday</td>
@@ -96,7 +96,7 @@ This page includes the planning and schedule of the Tech Track 21/22.
   		<td>Assessment</td>
   		<td>Grading</td>
   		<td>Grading</td>
-  		<td></td>
+  		<td>Robert & Suus & Vincent</td>
   	</tr>
   </tbody>
 </table>
