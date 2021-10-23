@@ -103,4 +103,8 @@ This page includes the planning and schedule of the Tech Track 21/22.
 
 ## Front-end Data
 
+To be added
+
 ## Front-end Applications
+
+To be added
