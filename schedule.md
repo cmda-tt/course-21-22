@@ -16,6 +16,22 @@ This page includes the planning and schedule of the Tech Track 21/22.
     </tr>
   </thead>
   <tbody>
+  	<tr>
+  		<td>Monday</td>
+  		<td>25-Oct</td>
+  		<td></td>
+  		<td></td>
+  		<td></td>
+  		<td></td>
+  	</tr>
+  	<tr>
+  		<td>Tuesday</td>
+  		<td>26-Oct</td>
+  		<td></td>
+  		<td></td>
+  		<td></td>
+  		<td></td>
+  	</tr>
   </tbody>
 </table>
 
