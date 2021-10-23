@@ -19,7 +19,7 @@ This page includes the planning and schedule of the Tech Track 21/22.
   	<tr>
   		<td>Monday</td>
   		<td>25-Oct</td>
-  		<td></td>
+  		<td>Introduction, setting up Github</td>
   		<td></td>
   		<td></td>
   		<td></td>
@@ -27,7 +27,7 @@ This page includes the planning and schedule of the Tech Track 21/22.
   	<tr>
   		<td>Tuesday</td>
   		<td>26-Oct</td>
-  		<td></td>
+  		<td>Recap: Block Tech & JavaScript Refresh</td>
   		<td></td>
   		<td></td>
   		<td></td>
@@ -35,7 +35,7 @@ This page includes the planning and schedule of the Tech Track 21/22.
    	<tr>
   		<td>Wednesday</td>
   		<td>27-Oct</td>
-  		<td></td>
+  		<td>Documentation: Wiki & Readme</td>
   		<td></td>
   		<td></td>
   		<td></td>
@@ -43,7 +43,7 @@ This page includes the planning and schedule of the Tech Track 21/22.
   	<tr>
   		<td>Thursday</td>
   		<td>28-Oct</td>
-  		<td></td>
+  		<td>Using the Terminal & Importing/Searching JSON</td>
   		<td></td>
   		<td></td>
   		<td></td>
@@ -51,11 +51,13 @@ This page includes the planning and schedule of the Tech Track 21/22.
    	<tr>
   		<td>Friday</td>
   		<td>29-Oct</td>
-  		<td></td>
+  		<td>Strings, array's & objects & Chaining + Cleaning</td>
   		<td></td>
   		<td></td>
   		<td></td>
   	</tr>
+  	<tr>
+  		<td colspan="5" align="center"><strong>Weekend!</strong></td>
   	<tr>
   		<td>Monday</td>
   		<td>1-Nov</td>
