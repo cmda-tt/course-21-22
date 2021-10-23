@@ -129,11 +129,11 @@ docs and images are [CC-BY-4.0][].
 
 [cmda]: https://github.com/cmda
 
-[fa]: pages/frontend-applications
+[fa]: fa
 
-[fp]: pages/functional-programming
+[fp]: fp
 
-[fd]: pages/frontend-data
+[fd]: fd
 
 [solideagency-gh]: https://github.com/solideagency
 
