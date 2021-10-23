@@ -7,7 +7,6 @@ This page includes the planning and schedule of the Tech Track 21/22.
 <table>
   <thead>
     <tr>
-      <th></th>
       <th><strong>Date</strong></th>
       <th><strong>Day</strong></th>
       <th><strong>Lectures</strong></th>
