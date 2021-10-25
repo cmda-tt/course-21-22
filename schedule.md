@@ -35,7 +35,7 @@ This page includes the planning and schedule of the Tech Track 21/22.
    	<tr>
   		<td>Wednesday</td>
   		<td>27-Oct</td>
-  		<td>Documentation: Wiki & Readme</td>
+  		<td>Functional Programming + korte intro Wiki/Readme</td>
   		<td>Check in</td>
   		<td>Check out</td>
   		<td>Suus</td>
@@ -61,7 +61,7 @@ This page includes the planning and schedule of the Tech Track 21/22.
   	<tr>
   		<td>Monday</td>
   		<td>1-Nov</td>
-  		<td>Recap Week 1 & Gather a dataset</td>
+  		<td>Recap Week 1 + Documentation gastcollege Deanna</td>
   		<td>Check in</td>
   		<td>Check out</td>
   		<td>Robert & Suus</td>
