@@ -31,4 +31,5 @@ INPUT -> PROCESS -> OUTPUT
 [Array Cardio](https://www.youtube.com/watch?v=HB1ZC7czKRs) by Wes Bos on Youtube.
 
 [Learning Functional Programming with Javascript](https://www.youtube.com/watch?v=e-5obm1G_FY&t=8s) by Anjana Vakil (JSUnconf) on YouTube.
+
 [paradigm]: https://en.wikipedia.org/wiki/Programming_paradigm
