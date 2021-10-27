@@ -2,7 +2,7 @@
 
 Here are some examples of functional programming patterns. Each pattern contains an `.md` file with an in-depth explanation and additional resources.
 
-* [Impure vs Pure functions](/examples/functional-patterns/impure.md)
+* [Impure vs Pure functions](https://github.com/cmda-tt/course-21-22/blob/main/fp/examples/functional-patterns/impure.md)
 * [Immutability](/examples/functional-patterns/immutability.md)
 * [Higher-order functions](/examples/functional-patterns/ho-functions.md)
 * [Composition](/examples/functional-patterns/composition.md)
