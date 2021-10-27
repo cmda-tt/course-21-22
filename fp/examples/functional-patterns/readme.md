@@ -29,5 +29,5 @@ INPUT -> PROCESS -> OUTPUT
 [Functional Programming in JavaScript](https://www.youtube.com/watch?v=BMUiFMZr7vk&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84) by MPJ on Youtube.  
 [Functional Programming ](https://www.freecodecamp.org/learn) by freeCodeCamp on freeCodeCamp.org.  
 [Array Cardio](https://www.youtube.com/watch?v=HB1ZC7czKRs) by Wes Bos on Youtube.
-
+[Learning Functional Programming with Javascript](https://www.youtube.com/watch?v=e-5obm1G_FY&t=8s) by Anjana Vakil (JSUnconf) on YouTube
 [paradigm]: https://en.wikipedia.org/wiki/Programming_paradigm
