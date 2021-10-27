@@ -43,7 +43,7 @@ This page includes the planning and schedule of the Tech Track 21/22.
   	<tr>
   		<td>Thursday</td>
   		<td>28-Oct</td>
-  		<td>Using the Terminal & Importing/Searching JSON</td>
+  		<td>Cleaning & Chaining livecoding</td>
   		<td>Check in</td>
   		<td>Check out</td>
   		<td>Robert</td>
@@ -51,7 +51,7 @@ This page includes the planning and schedule of the Tech Track 21/22.
    	<tr>
   		<td>Friday</td>
   		<td>29-Oct</td>
-  		<td>Strings, array's & objects & Chaining + Cleaning</td>
+  		<td>Terminal deep dive / Feedback</td>
   		<td>Check in</td>
   		<td>Check out</td>
   		<td>Robert & Suus</td>
