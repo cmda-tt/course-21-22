@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>Async Await- RDW</title>
+</head>
+
+<body>
+  <script>
+
+    async function getData(url) {
+      /* Paused until the request completes. */
+      const response = await fetch(url);
+      console.log(response);
+      /* Wait for the JSON. */
+      const data = await response.json();
+      console.log(data);
+    }
+
+    getData('https://opendata.rdw.nl/resource/mz4f-59fw.json');
+  </script>
+</body>
+
+</html>

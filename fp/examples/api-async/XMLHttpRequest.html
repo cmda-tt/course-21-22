@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>XMLHttpRequest - RDW</title>
+</head>
+
+<body>
+  <script>
+
+    /* Open a new XMLHttpRequest */
+    function getData(url, callback) {
+      let xhr = new XMLHttpRequest();
+      xhr.open('GET', url);
+
+      xhr.onload = function () {
+        callback(xhr.response);
+      };
+
+      xhr.send();
+    }
+
+    /* Log the data once request has finished */
+    function logData(data) {
+      console.log(data);
+    }
+
+    getData('https://opendata.rdw.nl/resource/mz4f-59fw.json', logData);
+  </script>
+</body>
+
+</html>
