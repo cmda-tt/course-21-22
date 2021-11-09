@@ -118,34 +118,34 @@ This page includes the planning and schedule of the Tech Track 21/22.
     <tr>
       <td>Monday</td>
       <td>8-Nov</td>
-      <td></td>
+      <td>Introduction SVG</td>
       <td>Start up</td>
       <td>Check out</td>
-      <td>?</td>
+      <td>Suwi & Vincent</td>
     </tr>
     <tr>
       <td>Tuesday</td>
       <td>9-Nov</td>
-      <td></td>
+      <td>Introduction + Livecoding w/ D3</td>
       <td>Check in</td>
       <td>Check out</td>
-      <td>?</td>
+      <td>Robert & Suwi</td>
     </tr>
     <tr>
       <td>Wednesday</td>
       <td>10-Nov</td>
-      <td></td>
+      <td>Build tools 101</td>
       <td>Check in</td>
       <td>Check out</td>
-      <td>?</td>
+      <td>Suwi & Vincent</td>
     </tr>
     <tr>
       <td>Thursday</td>
       <td>11-Nov</td>
-      <td></td>
+      <td>In depth D3</td>
       <td>Check in</td>
       <td>Check out</td>
-      <td>?</td>
+      <td>Suwi & Robert</td>
     </tr>
     <tr>
       <td>Friday</td>
@@ -153,17 +153,17 @@ This page includes the planning and schedule of the Tech Track 21/22.
       <td></td>
       <td>Check in</td>
       <td>Check out</td>
-      <td>?</td>
+      <td>Suwi & Vincent</td>
     </tr>
     <tr>
       <td colspan="6" align="center"><strong>Weekend!</strong></td>
     <tr>
       <td>Monday</td>
       <td>15-Nov</td>
-      <td></td>
+      <td>Advanced: Force-directed layouts?</td>
       <td>Check in</td>
       <td>Check out</td>
-      <td>?</td>
+      <td>Robert & Suwi</td>
     </tr>
     <tr>
       <td>Tuesday</td>
