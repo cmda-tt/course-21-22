@@ -134,7 +134,7 @@ This page includes the planning and schedule of the Tech Track 21/22.
     <tr>
       <td>Wednesday</td>
       <td>10-Nov</td>
-      <td>Build tools 101</td>
+      <td>D3 Scales + Build tools 101</td>
       <td>Check in</td>
       <td>Check out</td>
       <td>Suwi & Vincent</td>
@@ -142,7 +142,7 @@ This page includes the planning and schedule of the Tech Track 21/22.
     <tr>
       <td>Thursday</td>
       <td>11-Nov</td>
-      <td>In depth D3</td>
+      <td>D3 Transitions</td>
       <td>Check in</td>
       <td>Check out</td>
       <td>Suwi & Robert</td>
@@ -150,17 +150,17 @@ This page includes the planning and schedule of the Tech Track 21/22.
     <tr>
       <td>Friday</td>
       <td>12-Nov</td>
-      <td></td>
+      <td>More chart types: scatterplot, linechart & piecharts</td>
       <td>Check in</td>
       <td>Check out</td>
-      <td>Suwi & Vincent</td>
+      <td>Suwi & Robert</td>
     </tr>
     <tr>
       <td colspan="6" align="center"><strong>Weekend!</strong></td>
     <tr>
       <td>Monday</td>
       <td>15-Nov</td>
-      <td>Advanced: Force-directed layouts?</td>
+      <td>Advanced: Network graphs</td>
       <td>Check in</td>
       <td>Check out</td>
       <td>Robert & Suwi</td>
@@ -168,34 +168,34 @@ This page includes the planning and schedule of the Tech Track 21/22.
     <tr>
       <td>Tuesday</td>
       <td>16-Nov</td>
-      <td></td>
+      <td>No lectures - peer feedback</td>
       <td>Check in</td>
       <td>Check out</td>
-      <td>?</td>
+      <td>–</td>
     </tr>
     <tr>
       <td>Wednesday</td>
       <td>17-Nov</td>
-      <td></td>
+      <td>Using custom SVG shapes with D3</td>
       <td>Check in</td>
       <td>Check out</td>
-      <td>?</td>
+      <td>Suwi & Vincent</td>
     </tr>
     <tr>
       <td>Thursday</td>
       <td>18-Nov</td>
-      <td></td>
+      <td>Advanced: using multiple visualisations</td>
       <td>Check in</td>
       <td>Check out</td>
-      <td>?</td>
+      <td>Suwi & Vincent</td>
     </tr>
     <tr>
       <td>Friday</td>
       <td>19-Nov</td>
+      <td>Asessments</td>
       <td></td>
-      <td>Check in</td>
-      <td>Check out</td>
-      <td>?</td>
+      <td>Assessments</td>
+      <td>Suwi & Vincent</td>
     </tr>
   </tbody>
 </table>
