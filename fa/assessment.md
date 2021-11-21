@@ -63,7 +63,7 @@ Create a client-side application in JavaScript which dynamically renders data to
       <th align="center" scope="row">Process</th>
       <td align="center">Process is partially documented</td>
       <td align="center">Process is properly documented</td>
-      <td align="center">Choices are evaluated and documented; progress is demonstrated; Work tells a story</td>
+      <td align="center">Choices are evaluated and documented; progress is demonstrated; Peer feedback requested & given</td>
       <td align="center">Significant progress or iterations are demonstrated; Storytelling principles are applied</td>
       <td align="center">💪<br>What you did this course is amazing; Teachers are in awe of your progress</td>
     </tr>
