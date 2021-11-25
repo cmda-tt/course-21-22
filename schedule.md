@@ -58,6 +58,7 @@ This page includes the planning and schedule of the Tech Track 21/22.
   	</tr>
   	<tr>
   		<td colspan="6" align="center"><strong>Weekend!</strong></td>
+    </tr>
   	<tr>
   		<td>Monday</td>
   		<td>1-Nov</td>
@@ -157,6 +158,7 @@ This page includes the planning and schedule of the Tech Track 21/22.
     </tr>
     <tr>
       <td colspan="6" align="center"><strong>Weekend!</strong></td>
+    </tr>
     <tr>
       <td>Monday</td>
       <td>15-Nov</td>
@@ -202,4 +204,101 @@ This page includes the planning and schedule of the Tech Track 21/22.
 
 ## Front-end Applications
 
-To be added
+<table>
+  <thead>
+    <tr>
+      <th><strong>Date</strong></th>
+      <th><strong>Day</strong></th>
+      <th><strong>Lectures</strong></th>
+      <th><strong>Morning</strong></th>
+      <th><strong>Afternoon</strong></th>
+      <th><strong>Teachers</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Monday</td>
+      <td>22-Nov</td>
+      <td>Introduction to Frameworks + React 101: create a project</td>
+      <td>Start up</td>
+      <td>Check out</td>
+      <td>Angelo & Vincent</td>
+    </tr>
+    <tr>
+      <td>Tuesday</td>
+      <td>23-Nov</td>
+      <td>React 101: Packages, Components & Elements</td>
+      <td>Start up</td>
+      <td>Check out</td>
+      <td>Angelo & Vincent</td>
+    </tr>
+    <tr>
+      <td>Wednesday</td>
+      <td>24-Nov</td>
+      <td>React 101: using D3 w/React + FDND guest lecture on ThreeJS & WebGL</td>
+      <td>Start up</td>
+      <td>Check out</td>
+      <td>Angelo & Vincent</td>
+    </tr>
+    <tr>
+      <td>Thursday</td>
+      <td>25-Nov</td>
+      <td>React 101: Routes & States</td>
+      <td>Start up</td>
+      <td>Check out</td>
+      <td>Angelo & Vincent</td>
+    </tr>
+    <tr>
+      <td>Friday</td>
+      <td>26-Nov</td>
+      <td>React 101: developer tools & dev server</td>
+      <td>Start up</td>
+      <td>Check out</td>
+      <td>Angelo & Vincent</td>
+    </tr>
+    <tr>
+      <td colspan="6" align="center"><strong>Weekend!</strong></td>
+    </tr>
+    <tr>
+      <td>Monday</td>
+      <td>29-Nov</td>
+      <td>Linting & typescript</td>
+      <td>Start up</td>
+      <td>Check out</td>
+      <td>Angelo & Vincent</td>
+    </tr>
+    <tr>
+      <td>Tuesday</td>
+      <td>30-Nov</td>
+      <td>Peer feedback</td>
+      <td>Start up</td>
+      <td>Check out</td>
+      <td>–</td>
+    </tr>
+    <tr>
+      <td>Wednesday</td>
+      <td>1-Dec</td>
+      <td>t.b.d.</td>
+      <td>Start up</td>
+      <td>Check out</td>
+      <td>Angelo & Vincent</td>
+    </tr>
+    <tr>
+      <td>Thursday</td>
+      <td>2-Dec</td>
+      <td>t.b.d.</td>
+      <td>Start up</td>
+      <td>Check out</td>
+      <td>Angelo & Vincent</td>
+    </tr>
+    <tr>
+      <td>Friday</td>
+      <td>3-Dec</td>
+      <td>Assessments</td>
+      <td>–</td>
+      <td>–</td>
+      <td>Angelo & Vincent</td>
+    </tr>
+  </tbody>
+ </table>
+  
