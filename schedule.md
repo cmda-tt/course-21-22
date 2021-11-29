@@ -251,7 +251,7 @@ This page includes the planning and schedule of the Tech Track 21/22.
     <tr>
       <td>Friday</td>
       <td>26-Nov</td>
-      <td>React 101: developer tools & dev server</td>
+      <td>React 101: developer tools & typescript</td>
       <td>Start up</td>
       <td>Check out</td>
       <td>Angelo & Vincent</td>
@@ -262,7 +262,7 @@ This page includes the planning and schedule of the Tech Track 21/22.
     <tr>
       <td>Monday</td>
       <td>29-Nov</td>
-      <td>Linting & typescript</td>
+      <td>Linting & deploying your React app</td>
       <td>Start up</td>
       <td>Check out</td>
       <td>Angelo & Vincent</td>
@@ -278,7 +278,7 @@ This page includes the planning and schedule of the Tech Track 21/22.
     <tr>
       <td>Wednesday</td>
       <td>1-Dec</td>
-      <td>t.b.d.</td>
+      <td>Measuring & improving the performance of your app</td>
       <td>Start up</td>
       <td>Check out</td>
       <td>Angelo & Vincent</td>
@@ -286,7 +286,7 @@ This page includes the planning and schedule of the Tech Track 21/22.
     <tr>
       <td>Thursday</td>
       <td>2-Dec</td>
-      <td>t.b.d.</td>
+      <td>Last-minute panic coaching</td>
       <td>Start up</td>
       <td>Check out</td>
       <td>Angelo & Vincent</td>
