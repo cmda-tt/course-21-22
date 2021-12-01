@@ -25,7 +25,7 @@ When you setup a new project, you can give them access to your GitHub repo and c
 You can do the same within GitHub but it takes a few extra steps to set this up. On the plus side you'll have more control over the build steps and you've all your project stuff in one place.
 
 - Create a new branch called 'gh-pages'. 
-- GitHub should automatically setup a hosting service for your repo on GitHub Pages. You can verify this by going to Settings and then open the Pages tab. You should have a website now on https://username.github.io/name-of-your-repo/
+- GitHub should automatically setup a hosting service for your repo on GitHub Pages. You can verify this by going to Settings and then open the Pages tab. You should have a website now on `https://username.github.io/name-of-your-repo/`
 - Now let's create the automagic build action. You can enable actions on the Actions tab in the settings of your repo.
 - Setup a new empty action and copy/paste the script from: https://github.com/tanwanimohit/deploy-react-to-ghpages
 - Adjust branch name in script above from 'master' to 'main'. By default your first branch should be called 'main' on GitHub, so most likely you'll have to make this change.
