@@ -6,7 +6,7 @@ Links to code demos:
 - Day 3 (combining with D3): https://codesandbox.io/s/hva-demo-dag3-tnn6g
 - Day 4 (states & routes): https://codesandbox.io/s/hva-demo-dag4-sc8l4
 - Day 5 (common bugs & Typescript): https://codesandbox.io/s/8sfey
-- Day 6 (linting & deploying): https://prettier.io + see section below
+- Day 6 (linting & deploying): https://prettier.io + https://github.com/vijnv/react-build + see section below
 
 ## Deploying your react app
 
