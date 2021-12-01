@@ -32,7 +32,7 @@ You can do the same within GitHub but it takes a few extra steps to set this up.
 
 #### Hosting in a subfolder
 
-If you're hosting your app in a folder so not on `example.com/` or `subdomain.example.com/` but on `example.com/myapp/` or `example.com/~username/myapp/` you'll notice that your app doesn't load. This is the case for if you're using the Oege server or GitHub Pages for example. You'll need to configure your React app and tell it in which folder your app will be running.
+If you're hosting your app in a folder, you'll need to do an extra step. The build process expects you're running your app in the root folder,  so on `example.com/` or `subdomain.example.com/`. If it's hosted on `example.com/myapp/` or `example.com/~username/myapp/` instead you'll notice that your app doesn't load. This is the case for if you're using the Oege server or GitHub Pages for example. You'll need to configure your React app and tell it in which folder your app will be running.
 
 In your `package.json` file, add a new line in the upper section:
 `"homepage": "https://example.com/myapp",` <- don't forget the comma at the end of the line!
