@@ -18,9 +18,7 @@ Take about 20 minutes to do this
     + description
     + concept
     + image
-    + link to example used to build visualization
     + data used (what's done with invalid and empty values?)
-    + (link to) functional pattern 
     + plagiarism and acknowledgements
 - Read the wiki, can you follow the datacleaning and transforming process?
 - Read the code
